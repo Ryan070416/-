@@ -1,4 +1,4 @@
-# [數位錯題本]
+# 數位錯題本
 
 ## Proposal Report
 
